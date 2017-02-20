@@ -8,7 +8,7 @@ window.others = {
         "username": "George",
 	"userage": "26",
 	"usergender": "male",
-	"userpolitic": "technology",
+	"userpolitic": "technology and politics",
         "text": "I'm a 26 year old man from Winsconsin. I work in IT and I am really into politics. I am a member of the Muslim Purity for America",
         "likes": [12000, 20000, 25000] //3
       },
